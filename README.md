@@ -1,6 +1,6 @@
 ![VU evolving landscapes](./medias/evolving_landscapes.png)
 
-[jhub-link]: https://hub.compute.vu.nl/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatheuswalmeida%2FEvolving-Landscapes-S2S-25.git&urlpath=lab%2Ftree%2FEvolving-Landscapes-S2S-25.git%2FREADME.ipynb&branch=main
+[jhub-link]: https://hub1.compute.vu.nl/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatheuswalmeida%2FEvolving-Landscapes-S2S-25.git&urlpath=lab%2Ftree%2FEvolving-Landscapes-S2S-25.git%2FREADME.ipynb&branch=main
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [csdms-ivy]: https://github.com/csdms/ivy
 [CSDMS]:https://csdms.colorado.edu/wiki/Main_Page
