@@ -25,3 +25,5 @@ Click this button:
 
 to open the lessons directly on the VU JupyterHub instance!
 
+> **Note:** The VU JupyterHub *lab* instance is password-protected and can only be accessed by students and personnel at VU Amsterdam.
+
