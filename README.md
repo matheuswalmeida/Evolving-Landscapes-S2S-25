@@ -16,7 +16,7 @@ The goal of these lessons is to become familiar to landscape evolution modeling 
 ## Lessons 
 
 1. Introduction to landscape evolution modeling
-2. Hillslopes
+2. [Hillslopes][https://github.com/matheuswalmeida/Evolving-Landscapes-S2S-25/blob/main/hillslope_diffusion.ipynb]
 3. Rivers
 
 Click this button:
