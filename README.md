@@ -4,6 +4,7 @@
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [csdms-ivy]: https://github.com/csdms/ivy
 [CSDMS]:https://csdms.colorado.edu/wiki/Main_Page
+[hillslope-lesson]: https://github.com/matheuswalmeida/Evolving-Landscapes-S2S-25/blob/main/hillslope_diffusion.ipynb
 
 # Welcome to VU Evolving Landscapes collection!
 
@@ -16,7 +17,7 @@ The goal of these lessons is to become familiar to landscape evolution modeling 
 ## Lessons 
 
 1. Introduction to landscape evolution modeling
-2. [Hillslopes][https://github.com/matheuswalmeida/Evolving-Landscapes-S2S-25/blob/main/hillslope_diffusion.ipynb]
+2. [Hillslopes][hillslope-lesson]
 3. Rivers
 
 Click this button:
