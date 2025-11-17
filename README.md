@@ -16,9 +16,9 @@ The goal of these lessons is to become familiar to landscape evolution modeling 
 
 ## Lessons 
 
-1. Introduction to landscape evolution modeling
-2. [Hillslopes][hillslope-lesson]
-3. Rivers
+1. Rivers
+2. Hillslopes
+3. Introduction to Landlab
 
 Click this button:
 
