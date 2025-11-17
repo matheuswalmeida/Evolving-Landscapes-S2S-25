@@ -1,10 +1,14 @@
 ![VU evolving landscapes](./medias/evolving_landscapes.png)
 
+
 [jhub-link]: https://hub1.compute.vu.nl/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fmatheuswalmeida%2FEvolving-Landscapes-S2S-25.git&urlpath=lab%2Ftree%2FEvolving-Landscapes-S2S-25.git%2FREADME.ipynb&branch=main
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
 [csdms-ivy]: https://github.com/csdms/ivy
 [CSDMS]:https://csdms.colorado.edu/wiki/Main_Page
-[hillslope-lesson]: https://github.com/matheuswalmeida/Evolving-Landscapes-S2S-25/blob/main/hillslope_diffusion.ipynb
+[hillslope-lesson]: Hillslopes.ipynb
+[river-lesson]: Rivers.ipynb
+[landlab-lesson]: Landlab.ipynb
+[report]: Report.ipynb
 
 # Welcome to VU Evolving Landscapes collection!
 
@@ -14,11 +18,12 @@ VU Evolving Landscapes contains a selected number of notebooks providing an intr
 
 The goal of these lessons is to become familiar to landscape evolution modeling software. Through this collection of tutorials, students will be introduced to landscape evolution modeling and will be able to investigate how the interactions between tectonics and geomorphic processes are expressed in topography. 
 
-## Lessons 
+## Lessons and Report
 
-1. Rivers
-2. Hillslopes
-3. Introduction to Landlab
+1. [Rivers][river-lesson]
+2. [Hillslopes][hillslope-lesson] 
+3. [Landlab][landlab-lesson]
+4. [Report Notebook][report]
 
 Click this button:
 
